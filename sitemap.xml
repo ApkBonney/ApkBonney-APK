@@ -1,40 +1,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
 <url>
 <loc>https://apkbonney.github.io/ApkBonney-APK/studio.html</loc>
 <lastmod>2024-10-15</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
 </url>
+  
 <url>
 <loc>https://apkbonney.github.io/ApkBonney-APK/1bedroom.html</loc>
 <lastmod>2024-10-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
+  
 <url>
 <loc>https://apkbonney.github.io/ApkBonney-APK/2bedroom.html</loc>
 <lastmod>2024-10-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
+  
 <url>
 <loc>https://apkbonney.github.io/ApkBonney-APK/3bedroom.html</loc>
 <lastmod>2024-10-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
+  
 <url>
 <loc>https://apkbonney.github.io/ApkBonney-APK/PentHouse.html</loc>
 <lastmod>2024-10-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
+  
 <url>
 <loc>https://apkbonney.github.io/ApkBonney-APK/contact.html</loc>
 <lastmod>2024-10-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
+  
 </urlset>
 
 
