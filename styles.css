@@ -245,13 +245,13 @@ nav a:hover{
     align-items: center;
 }
 
-/* .popup-content{
+.popup-content{
     background: white;
     padding: 20px;
     border-radius: 5px;
     width: 300px;
     position: relative;
-} */
+}
 
 .close-btn{
     position: absolute;
